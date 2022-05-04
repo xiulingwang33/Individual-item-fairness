@@ -6,7 +6,3 @@ KGAT/CKE model: https://github.com/xiangwang1223/knowledge_graph_attention_netwo
 
 The datases we use can be downloaded at https://github.com/orcax/PGPR/tree/master/data
 
-To run the GS algorithm:
-
-
-To run the ER algorithm:
