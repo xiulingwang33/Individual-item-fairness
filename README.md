@@ -1,8 +1,4 @@
-# Individual-item-fairness
+# ncf-pytorch
+This is a Pytorch implementation of the paper [Neural Collaborative Filtering by Xiangnan He et al](https://arxiv.org/abs/1708.05031).
 
-WE use the recommendation algorithms from the following shources:
-PGPR model:  https://github.com/orcax/PGPR implemented by the authors of PGPR
-KGAT/CKE model: https://github.com/xiangwang1223/knowledge_graph_attention_network implemented by the authors of KGAT
-
-The datases we use can be downloaded at https://github.com/orcax/PGPR/tree/master/data
-
+This repo was inspired by the original authers' [Keras implementation](https://github.com/hexiangnan/neural_collaborative_filtering) and the Pytorch implementation [here](https://github.com/guoyang9/NCF).
