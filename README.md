@@ -8,5 +8,6 @@ PRPG: https://github.com/orcax/PGPR
 
 The datasets can be downloaded in the link of https://github.com/orcax/PGPR
 
+## Reference
 
 This repo contains the code for the paper "Providing Item-side Individual Fairness for Deep Recommender System" published in ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022.
